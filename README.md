@@ -1,4 +1,4 @@
-# AI Music Generator
+# AI Music Generator Project by Shweta Pandya
 
 This project is an AI-powered music generation system built using PyTorch and the `music21` library. Uniquely designed, it learns musical patterns from a dataset of custom MIDI files, trains a Long Short-Term Memory (LSTM) neural network, and independently composes brand new music sequences based on the acquired knowledge. 
 
